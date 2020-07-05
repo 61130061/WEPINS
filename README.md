@@ -17,13 +17,12 @@ $ pip install numpy
 $ pip install opencv-python
 ```
 
+## Tech
+* [node.js](https://nodejs.org/) - evented I/O for the backend
+* [python](https://www.python.org/downloads/) - AI processing
 
 ## Future
 * Upload image to NodeJS server via frontend html website.
 * Run python file via NodeJS server.
 * Show the output of the python file on the website.
-
-## Tech
-* [node.js](https://nodejs.org/) - evented I/O for the backend
-* [python](https://www.python.org/downloads/) - AI processing
 
