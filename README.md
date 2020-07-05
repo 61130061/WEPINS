@@ -18,10 +18,23 @@ Install Python library.
 $ pip install numpy
 $ pip install opencv-python
 ```
+Clone the repository
+```sh
+$ git clone https://github.com/61130061/WEPINS.git
+```
+Then install the packages and run 'app.js'
+```sh
+$ npm install
+$ node app.js
+```
+
+## Using the web app
+coming...
 
 ## Tech
 * [node.js](https://nodejs.org/) - evented I/O for the backend
 * [python](https://www.python.org/downloads/) - AI processing
+* [bootstrap](https://getbootstrap.com/) - Front-end UI
 
 ## Future
 * Upload image to NodeJS server via front-end html website.
