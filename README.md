@@ -24,7 +24,7 @@ $ pip install opencv-python
 * [python](https://www.python.org/downloads/) - AI processing
 
 ## Future
-* Upload image to NodeJS server via frontend html website.
+* Upload image to NodeJS server via front-end html website.
 * Run python file via NodeJS server.
 * Show the output of the python file on the website.
 
