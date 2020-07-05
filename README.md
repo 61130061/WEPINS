@@ -11,7 +11,7 @@ $ brew update
 $ brew install node
 ```
 
-Install Python Enviroment.
+Install Python library.
 ```sh
 $ pip install numpy
 $ pip install opencv-python
