@@ -2,6 +2,8 @@
 
 WEPINS is just the prototype of the Web-services for Python AI model in NodeJS. In this prototype, we use Yolo object detection to be the example of python processing. 
 
+![website](Doc/website.gif)
+
 ## Installation
 I assume you have macOS Catalina 10.15.5 with [brew](https://brew.sh/) and [Python3.7.7](https://www.python.org/downloads/).
 
