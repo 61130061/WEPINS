@@ -34,7 +34,7 @@ coming...
 ## Tech
 * [node.js](https://nodejs.org/) - evented I/O for the backend
 * [python](https://www.python.org/downloads/) - AI processing
-* [bootstrap](https://getbootstrap.com/) - Front-end UI
+* [bootstrap](https://getbootstrap.com/) - Frontend UI
 
 ## Future
 * Upload image to NodeJS server via front-end html website.
