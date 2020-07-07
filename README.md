@@ -37,7 +37,7 @@ coming...
 * [bootstrap](https://getbootstrap.com/) - Frontend UI
 
 ## Future
-* Upload image to NodeJS server via front-end html website.
+* Upload image to NodeJS server via frontend html website.
 * Run python file via NodeJS server.
 * Show the output of the python file on the website.
 
