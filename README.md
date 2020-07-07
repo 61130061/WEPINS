@@ -42,3 +42,6 @@ coming...
 * Run python file via NodeJS server.
 * Show the output of the python file on the website.
 
+## License
+MIT
+
