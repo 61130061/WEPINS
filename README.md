@@ -32,7 +32,8 @@ $ node app.js
 coming...
 
 ## Tech
-* [node.js](https://nodejs.org/) - evented I/O for the backend
+* [NodeJS](https://nodejs.org/) - evented I/O for the backend
+$ [ExpressJS](https://expressjs.com/)
 * [python](https://www.python.org/downloads/) - AI processing
 * [bootstrap](https://getbootstrap.com/) - Frontend UI
 
